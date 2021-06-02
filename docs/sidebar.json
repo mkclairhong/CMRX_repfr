@@ -1,0 +1,13 @@
+{
+  "repfr": {
+    "Overview": "/",
+    "Default CMR Model": "Default_Model.html",
+    "Visualizing Model States": "Visualizing_Model_States.html",
+    "Data Preparation": "Data_Preparation.html",
+    "Benchmark Analyses": "Benchmark_Analyses.html",
+    "Repetition Effects": "Repetition_Effects.html",
+    "Likelihood-Based Model Fitting": "Fitting_By_Likelihood.html",
+    "MSE-Based Model Fitting": "Fitting_By_MSE.html",
+    "Model Comparison": "Model_Comparison.html"
+  }
+}
